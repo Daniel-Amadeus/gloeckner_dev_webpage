@@ -1,0 +1,41 @@
+{
+    "name" {
+        "first": "Daniel-Amadeus Johannes",
+        "last": "Glöckner"
+    },
+    "education": [
+        {
+            "start": "2007",
+            "end": "2013",
+            "title": "Abitur",
+            "institution": "Carl-Friedrich-Gauß-Gymnasium",
+            "location": "Frankfurt (Oder)",
+            "description": "MINT-Gymnasium, Abschlussnote: 1.6"
+        },
+        {
+            "start": "2013",
+            "end": "2016",
+            "title": "Bachelor of IT-Systems Engineering",
+            "institution": "Hasso-Plattner-Institut",
+            "location": "Potsdam",
+            "description": "Abschlussnote: 1.7"
+        },
+        {
+            "start": "2016",
+            "end": "2019",
+            "title": "Master of IT-Systems Engineering",
+            "institution": "Hasso-Plattner-Institut",
+            "location": "Potsdam",
+            "description": "Abschlussnote: 1.6"
+        }
+    ],
+    "experience": {
+        "professional": [
+            {
+                "start": "2016",
+                "title": "Arbeit an App zur Bild- und Video-Verarbeitung",
+                "description": ""
+            }
+        ]
+    }
+}
