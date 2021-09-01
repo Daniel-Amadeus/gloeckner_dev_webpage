@@ -1,5 +1,5 @@
 {
-    "name" {
+    "name": {
         "first": "Daniel-Amadeus Johannes",
         "last": "Glöckner"
     },
@@ -34,7 +34,38 @@
             {
                 "start": "2016",
                 "title": "Arbeit an App zur Bild- und Video-Verarbeitung",
-                "description": ""
+                "institution": "Hasso-Plattner-Institut",
+                "location": "Potsdam",
+                "description": "Ich habe drei Monate am Computergrafik-Lehrstuhl am HPI mit an dem Framework einer
+                App zur Bild- und Videoverabeitung gearbeitet."
+            },
+            {
+                "start": "2016",
+                "title": "openHPI",
+                "institution": "Hasso-Plattner-Institut",
+                "location": "Potsdam",
+                "description": "Zusammen mit zwei Kommilitonen habe ich den openHPI Kurs Wie designe ich meine eigene
+                Homepage? geplant und durchgeführt. Dabei haben wir Einsteigern eine leicht
+                verständliche Einführung in das Erstellen einer Webseite mit HTML, CSS und Bootstrap gegeben."
+            },
+            {
+                "start": "2016",
+                "title": "Beratung",
+                "institution": "Innovationsplattform",
+                "description": "Ich habe einige Monate einen Gründer einer gemeinnützigen Innovationsplattform
+                schon in der frühen Planungsphase. Dabei habe ich sowohl bei der inhaltlichen als auch bei
+                der technischen Planung geholfen."
+            },
+            {
+                "start": "07.2016",
+                "title": "KIDScraft 2.0",
+                "institution": "Junge Tüftler",
+                "location": "Wolfsburg",
+                "description": "Ich habe eine Woche ein IT-Camp für Schüler betreuen, für das ich mit einer Kommilitonin
+                ein eigenes Konzept ausgearbeitet habe. Wir haben gerade den jungen Schülern
+                mit Hilfe von programmierbaren Beleuchtungen und Schmuck einen spielerischen Einstieg in
+                die Informatik verschafft. Dabei nutzten wir auch computergesteuerte Produktionsgeräte
+                wie 3D-Drucker und Lasercutter."
             }
         ]
     }

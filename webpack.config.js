@@ -8,17 +8,15 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             filename: 'index.html',
-            template: './source/pages/index.pug',
-            // templateParameters: { config, assignments },
-            // chunks: ['index', 'style']
+            template: './source/pages/index.pug'
         })
     ],
     mode: 'development',
     devtool: 'inline-source-map',
-    // output: {
-    //     filename: '[name].js',
-    //     path: path.resolve(__dirname, 'build'),
-    // },
+    output: {
+        filename: '[name].js',
+        path: path.resolve(__dirname, 'build'),
+    },
     module: {
         rules: [
             {
